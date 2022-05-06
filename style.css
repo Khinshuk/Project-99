@@ -1,0 +1,26 @@
+#start-btn
+{
+    width: 200px;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+body{
+    background: linear-gradient(#2d388a,#00aaef);
+    color: white;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.column{
+    display:inline;
+    padding: 10px;
+}
